@@ -3,5 +3,5 @@
 cara menggunakan :
 sh wangy.sh
 
-#Lapor Bug
+# Lapor Bug
 t.me/CheemsVX
